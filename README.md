@@ -20,7 +20,7 @@
 
 ### Результаты задачи №1
 6 сгенерированных лиц из случайных векторов:
-![Результаты задачи №1](https://github.com/artitre/FaceAutoencoders/blob/master/Image/Test_1.PNG)
+![Результаты задачи №1](https://github.com/artitre/FaceAutoencoder/blob/master/Image/Test_1.PNG)
 
 ### Результаты задачи №2
 Первое изображение - исходное изображение.
@@ -29,4 +29,4 @@
 
 Третье изображение - результат. 
 
-![Результаты задачи №2](https://github.com/artitre/FaceAutoencoders/blob/master/Image/Test_2.PNG)
+![Результаты задачи №2](https://github.com/artitre/FaceAutoencoder/blob/master/Image/Test_2.PNG)
